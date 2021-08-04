@@ -6,7 +6,7 @@ log-mel
 
 AMS
 
-GMFC
+GFMC
 
 
 ref:
