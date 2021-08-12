@@ -1,4 +1,4 @@
-function cepDpDD = my_features_log_mel(Sequence)
+function cepDpDD = log_mel(Sequence)
 
 samples = Sequence;
 sr = 16000;

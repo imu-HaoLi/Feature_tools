@@ -1,4 +1,4 @@
-function cepDpDD = my_features_gfmc(input_signal)
+function cepDpDD = gfmc(input_signal)
 % gfmc, a gfcc variation with modulation information
 
 sampFreq = 16e3;

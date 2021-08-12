@@ -1,4 +1,4 @@
-function cepDpDD = my_features_ams(sub_gf)
+function cepDpDD = ams(sub_gf)
 
 nChan = 64;
 
